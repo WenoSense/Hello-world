@@ -1,0 +1,38 @@
+﻿  L3.cpp
+C:\git\Hello-world\L3\L3\L3.cpp(12,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\git\Hello-world\L3\L3\L3.cpp(14,3): error C2065: mov: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(14,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\git\Hello-world\L3\L3\L3.cpp(14,7): error C2065: eax: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(15,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\git\Hello-world\L3\L3\L3.cpp(15,3): error C2065: add: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(15,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\git\Hello-world\L3\L3\L3.cpp(15,7): error C2065: eax: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(16,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\git\Hello-world\L3\L3\L3.cpp(16,3): error C2065: mov: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(16,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "c"
+C:\git\Hello-world\L3\L3\L3.cpp(16,10): error C2065: eax: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(18,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\git\Hello-world\L3\L3\L3.cpp(18,3): error C2065: mov: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(18,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\git\Hello-world\L3\L3\L3.cpp(18,7): error C2065: ebx: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(19,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\git\Hello-world\L3\L3\L3.cpp(19,3): error C2065: sub: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(19,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\git\Hello-world\L3\L3\L3.cpp(19,7): error C2065: ebx: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(20,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\git\Hello-world\L3\L3\L3.cpp(20,3): error C2065: mov: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(20,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "b"
+C:\git\Hello-world\L3\L3\L3.cpp(20,10): error C2065: ebx: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(22,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\git\Hello-world\L3\L3\L3.cpp(22,3): error C2065: mov: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(22,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\git\Hello-world\L3\L3\L3.cpp(22,7): error C2065: ecx: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(23,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\git\Hello-world\L3\L3\L3.cpp(23,3): error C2065: sub: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(23,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\git\Hello-world\L3\L3\L3.cpp(23,7): error C2065: ecx: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(24,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\git\Hello-world\L3\L3\L3.cpp(24,3): error C2065: mov: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(24,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\git\Hello-world\L3\L3\L3.cpp(24,10): error C2065: ecx: необъявленный идентификатор
+C:\git\Hello-world\L3\L3\L3.cpp(25,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
